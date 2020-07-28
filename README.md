@@ -9,9 +9,7 @@ Milk heat treatments_FT-IR
 
 ## How to use
 ```R
-# Model loading
-load("./Models.RData")
-# After loading, you can use these models for prediction.
+Model loading.R
 ```
 ## Figure
 ![image](https://github.com/wzhanglab/Milk_FT-IR/blob/master/figure.png)
